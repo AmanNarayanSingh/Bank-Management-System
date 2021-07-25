@@ -24,7 +24,7 @@
 					16)Creation of thread to execute a certain process.
 					17)Few string handling mechanisms . 
 
---> OTHER TOPICS COVERED:
+--> OTHER TOPICS COVERED :
 
 					18) FILE HANDLING IN JAVA 
 					19) BUFFERED WRITER, FILE INPUT STREAM, FILE OUTPUT STREAM, SCANNER CLASS, etc.
@@ -36,8 +36,8 @@
 					25) MENU DRIVEN PROGRAM USING DO WHILE LOOP AND SWITCH STATEMENTS.
 					
 					
---> NUMBER OF PACKAGES: 2 (pack1 and pack2)
+--> NUMBER OF PACKAGES : 2 (pack1 and pack2)
 
---> TOTAL CLASS FILES IN PACKAGES: 9
+--> TOTAL CLASS FILES IN PACKAGES : 9
 
 --> Created by : AMAN NARAYAN SINGH
