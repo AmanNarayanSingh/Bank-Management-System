@@ -3,7 +3,9 @@ This is a project made on BANK MANAGEMENT SYSTEM using Object Oriented Concepts 
 
 TOTAL LINES OF CODE IN THIS PROJECT : 430 LINES
 
+
 TOPICS COVERED IN THE PROJECT :
+
 					1)Abstraction- Classes.
 					2)Scope and Lifetime of variables.
 					3)Declaring objects.
