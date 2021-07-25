@@ -26,12 +26,12 @@
 
 --> OTHER TOPICS COVERED :
 
-					18) FILE HANDLING IN JAVA 
-					19) BUFFERED WRITER, FILE INPUT STREAM, FILE OUTPUT STREAM, SCANNER CLASS, etc.
-					20) NUMBERFORMAT CLASS 
-					21) LOCALE CLASS
+					18) FILE HANDLING IN JAVA (USED IN main_page class and employee class)
+					19) BUFFERED WRITER, FILE INPUT STREAM, FILE OUTPUT STREAM, SCANNER CLASS, etc.(used in main_page class)
+					20) NUMBERFORMAT CLASS (used in check_balance class)
+					21) LOCALE CLASS (used in check_balance class)
 					22) FILE OPERATIONS LIKE CREATE FILE, READ, WRITE , APPEND , DELETE, etc.
-					23) MULTIPLE INTERFACES (IT SHOWS THAT WE CAN TRY TO IMPLEMENT MULTIPLE INHERITANCE INDIRECTLY WHICH IS NOT POSSIBLE DIRECTLY IN JAVA).
+					23) MULTIPLE INTERFACES ( WE CAN IMPLEMENT MULTIPLE INHERITANCE INDIRECTLY WHICH IS IMPOSSIBLE DIRECTLY IN JAVA). (used in 																					employee class)
 					24) IMPORTING CLASSES FROM OTHER PAKAGES.
 					25) MENU DRIVEN PROGRAM USING DO WHILE LOOP AND SWITCH STATEMENTS.
 					
@@ -39,5 +39,9 @@
 --> NUMBER OF PACKAGES : 2 (pack1 and pack2)
 
 --> TOTAL CLASS FILES IN PACKAGES : 9
+
+--> META DATA.txt file in pack 1 contains information about the code.
+
+--> name.txt file contains the list of the names of employees which are currently employed in the bank.
 
 --> Created by : AMAN NARAYAN SINGH
