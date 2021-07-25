@@ -42,6 +42,6 @@
 
 --> META DATA.txt file in pack 1 contains information about the code.
 
---> name.txt file contains the list of the names of employees which are currently employed in the bank.
+--> name.txt (used in employee class) file contains the list of the names of employees which are currently employed in the bank.
 
 --> Created by : AMAN NARAYAN SINGH
