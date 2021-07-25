@@ -1,10 +1,10 @@
 # Bank-Management-System
--->This is a project made on BANK MANAGEMENT SYSTEM using Object Oriented Concepts in JAVA. This project can be used to implement the basic banking operations like create account, deposit, withdraw, check balance in different currency format(USA, INDIA, FRANCE, CHINA, etc), get employee details, check registration status of customer,etc with the help of menu driven program in JAVA language. 
+--> This is a project made on BANK MANAGEMENT SYSTEM using Object Oriented Concepts in JAVA. This project can be used to implement the basic banking operations like create account, deposit, withdraw, check balance in different currency format(USA, INDIA, FRANCE, CHINA, etc), get employee details, check registration status of customer,etc with the help of menu driven program in JAVA language. Below are more details of this project including the list of concepts used.
 
--->TOTAL LINES OF CODE IN THIS PROJECT : 430 LINES
+--> TOTAL LINES OF CODE IN THIS PROJECT : 430 LINES
 
 
--->TOPICS COVERED IN THE PROJECT :
+--> TOPICS COVERED IN THE PROJECT :
 
 					1)Abstraction- Classes.
 					2)Scope and Lifetime of variables.
@@ -24,7 +24,7 @@
 					16)Creation of thread to execute a certain process.
 					17)Few string handling mechanisms . 
 
--->OTHER TOPICS COVERED:
+--> OTHER TOPICS COVERED:
 
 					18) FILE HANDLING IN JAVA 
 					19) BUFFERED WRITER, FILE INPUT STREAM, FILE OUTPUT STREAM, SCANNER CLASS, etc.
@@ -36,6 +36,7 @@
 					25) MENU DRIVEN PROGRAM USING DO WHILE LOOP AND SWITCH STATEMENTS.
 					
 					
--->NUMBER OF PACKAGES: 2 (pack1 and pack2)
+--> NUMBER OF PACKAGES: 2 (pack1 and pack2)
 
--->TOTAL CLASS FILES IN PACKAGES: 9
+--> TOTAL CLASS FILES IN PACKAGES: 9
+--> Created by : AMAN NARAYAN SINGH
